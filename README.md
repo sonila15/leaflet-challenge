@@ -26,5 +26,5 @@ The United States Geological Survey (USGS) collects a massive amount of earthqua
 * Include popups that provide additional information about the earthquake when its associated marker is clicked.
 * Create a legend that will provide context for your map data. 
 
-
-
+### Deployment
+The application is deployed on GitHub Pages at https://sonila15.github.io/leaflet-challenge/. The source code is available in the repository at https://github.com/sonila15/leaflet-challenge/.
