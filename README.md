@@ -1,5 +1,6 @@
 # leaflet-challenge
 
+
 ## Visualizing USGS Earthquake Data with Leaflet
 
 ### Introduction
@@ -24,3 +25,6 @@ The United States Geological Survey (USGS) collects a massive amount of earthqua
 * Reflect the magnitude of the earthquake by their size and the depth of the earthquake by color.
 * Include popups that provide additional information about the earthquake when its associated marker is clicked.
 * Create a legend that will provide context for your map data. 
+
+
+
